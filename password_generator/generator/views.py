@@ -1,5 +1,5 @@
 """
-Author = Francisco Gomes
+Author = Francisco Gomes and Jymmy Barreto
 Date = 18/02/2022
 Version = 1.0
 File description = Importing libraries and create functions logical
